@@ -1,6 +1,6 @@
 cask "chat2db" do
   version "1.0.7"
-  sha256 "你需要提供这个zip文件的SHA256"
+  sha256 "585753e3c9461c0a3f1f717ec8d6f17da96a1b25f9e508c6bacca330e20b86e6"
 
   url "https://github.com/alibaba/Chat2DB/releases/download/v#{version}/Chat2DB-#{version}-arm64-mac.zip"
   name "Chat2DB"
